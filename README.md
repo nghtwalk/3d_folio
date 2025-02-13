@@ -19,9 +19,9 @@ This is my interactive **3D portfolio**, built with **React** and **Three.js**, 
 - Vite
 - Tailwind CSS
 
+## 🚀 Deployment
+The project is live at: https://sam3dfolio.netlify.app/
+
 <div>
   <img src="https://i.imgur.com/WbapW6Z.png" />
 </div>
-
-## 🚀 Deployment
-The project is live at: https://sam3dfolio.netlify.app/
