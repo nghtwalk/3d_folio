@@ -27,4 +27,4 @@ This is my interactive **3D portfolio**, built with **React** and **Three.js**, 
 
 ## 🖥️ Deploy 
 
-<a>https://sam3dfolio.netlify.app target="_blank"</a>
+<a target="_blank">https://sam3dfolio.netlify.app"</a>
