@@ -24,7 +24,3 @@ This is my interactive **3D portfolio**, built with **React** and **Three.js**, 
  - Email JS
  - Vite
 - Tailwind CSS
-
-## 🖥️ Deploy 
-
-<a href="(https://sam3dfolio.netlify.app)" target="_blank" rel="noopener noreferrer">https://sam3dfolio.netlify.app</a>
