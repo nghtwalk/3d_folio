@@ -7,7 +7,7 @@
   </div>
 
   <div align="center">
-    <img src="https://imgur.com/a/petNxZ5"/>
+    <img src="https://i.imgur.com/WbapW6Z.png">
   </div>
 
 ## 📌 About the Project  
